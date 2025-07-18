@@ -3,5 +3,6 @@ I'm Mustafa Nomair, a CS student at USC passionate about exploring the intersect
 
 - 🧠 I'm currently working w/ Google x USC's AI Community Project
 - 🤝 I'm looking to collaborate on any impactful projects you want to build together (have built apps w/ 300k+ users worldwide)
-- 💬 Ask me about startups, Brawl Stars, or running some basketball games
+- 💬 Ask me about startups, hiking, or running some basketball games
+- ⚡ Fun fact: I'm ranked top 500 Crow player nationally in Brawl Stars & top 700 worldwide
 - 📫 How to reach me: nomair@usc.edu
