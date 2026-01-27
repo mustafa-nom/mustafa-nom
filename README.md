@@ -4,5 +4,5 @@ I'm Mustafa Nomair, a CS student @ USC passionate about exploring the intersecti
 - 🧠 I'm currently working with USC x Google as an AI Researcher
 - 🤝 Looking to collab on any impactful projects/startups you want to build together (have built apps w/ 300k+ users worldwide)
 - 💬 Ask me about One Piece, hiking, or running some basketball games
-- ⚡ Fun fact: I'm ranked top 500 nationally as Crow in Brawl Stars & top 700 worldwide (at one point 😔)
+- ⚡ Fun fact: I was ranked top 500 worldwide as Crow in Brawl Stars & top 15k in ranked Fortnite (at one point 😔)
 - 📫 How to reach me: [nomair@usc.edu](mailto:nomair@usc.edu) | [musnom.com](https://musnom.com)
