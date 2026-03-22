@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Mustafa Nomair, a CS student @ USC passionate about exploring the intersection of technology with real-world applications.
+## Hi there, I'm Mustafa 👋
+I'm a CS student @ USC passionate about exploring the intersection of technology with real-world applications.
 
 - 🧠 Currently working with Google x USC as an AI Researcher
 - 🤝 Looking to collab on any projects/startups you want to build together (have built apps w/ 300k+ users worldwide)
