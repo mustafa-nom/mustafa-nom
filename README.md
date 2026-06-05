@@ -4,6 +4,7 @@ hey i'm mustafa, a sophomore at the university of southern california studying c
 ~> currently working with apple on optimizing user experiences for apple.com
 ~> prev at google & a few startups (scaled apps w/ 300k+ users worldwide)
 ~> fun fact: I was ranked top 15 worldwide as Crow in Brawl Stars
+~> fav project: claude cursor - ai cursor assistant
 ```
 
 reach out if you want to collab on any cool projects or just want to chat
