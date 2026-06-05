@@ -1,9 +1,10 @@
-hey i'm mustafa, a sophomore at the university of southern california studying cs
+hey i'm mustafa, a sophomore at the university of southern california 
+studying computer science
 
 ```
-~> currently working with apple
-~> prev at google & a few startups (have built apps w/ 300k+ users worldwide)
-~> fun fact: I was ranked top 15 worldwide as Crow in Brawl Stars & top 15k+ in ranked Fortnite
+~> currently working with apple on optimizing user experiences for apple.com
+~> prev at google & a few startups (scaled apps with 300k+ users worldwide)
+~> fun fact: I was ranked top 15 worldwide as Crow in Brawl Stars
 ```
 
 reach out if you want to collab on any cool projects or just want to chat
