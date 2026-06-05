@@ -1,9 +1,8 @@
-hey i'm mustafa, a sophomore at the university of southern california 
-studying computer science
+hey i'm mustafa, a sophomore at the university of southern california studying computer science
 
 ```
 ~> currently working with apple on optimizing user experiences for apple.com
-~> prev at google & a few startups (scaled apps with 300k+ users worldwide)
+~> prev at google & a few startups (scaled apps w/ 300k+ users worldwide)
 ~> fun fact: I was ranked top 15 worldwide as Crow in Brawl Stars
 ```
 
