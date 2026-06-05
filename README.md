@@ -1,4 +1,4 @@
-hey i'm mustafa, a sophomore at the university of southern california studying computer science
+i'm mustafa, a sophomore at the university of southern california studying computer science
 
 ```
 ~> currently working with apple on optimizing user experiences for apple.com
